@@ -1,0 +1,5 @@
+package com.cos.todo.domain;
+
+public class TaskRepository {
+
+}
